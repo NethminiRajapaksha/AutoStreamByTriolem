@@ -30,6 +30,4 @@ The system is divided into three main portals:
 ## Learning Outcome
 This project provided practical experience in essential QA skills, from test execution to defect management, preparing me to contribute effectively in real-world QA scenarios.
 
----
 
-Looking forward to applying these skills in real-world scenarios and advancing in the field of Quality Assurance!
